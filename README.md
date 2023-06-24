@@ -54,7 +54,7 @@ it would be inaccurate to judge our entry based off of strictly running the UWP 
 of the app. Certain features such as bug reporting are only available on Android and iOS 
 systems.
 
-[Download Release 1.5](https://github.com/BeckettMorsch/QuizzicalFBLA/releases)
+[Download Release 1.3](https://github.com/BeckettMorsch/QuizzicalFBLA/releases)
 
 ## Build Instructions
 
@@ -72,11 +72,11 @@ Enjoy!
 
 ## Other Notes ##
 
-- All of the code that is contained within QuizzicalFBLA is error free and can be run with no issues.  
-- QuizzicalFBLA is entirely written in C# using the Xamarin Framework.
-- The navigation between pages is also error free and all of the buttons on the app take the user to the intended pages.
-- The QuizzicalFBLA app is compatible with Android/iOS phones and tablets.
-- The questions in the app all pertain to the topic FBLA
+- All of the code in Meagle is error free and can be run with no issues.  
+- Meagle is entirely written in C# using the Xamarin Framework.
+- The navigation between pages is also error free and take the user to the intended pages.
+- The Meagle app is compatible with Android/iOS phones and tablets.
+- The data that is collected from the app is secure.
 
 
 ## Resources Used ##
@@ -178,18 +178,6 @@ Xamarin.Forms.PancakeView by Steven Thewissen - [https://www.nuget.org/packages/
 >An extended ContentView for Xamarin.Forms with rounded corners, borders, shadows and more!
 <br/><br/>
 
-
-## References ##
-
-
- - Shuhaiber, Salam. “FBLA.” *Quizlet*, 4 Nov. 2018, quizlet.com/334797739/fbla-flash-cards/. 
- - Caminneci, Vincent G. “History of FBLA.” *Quizlet*, 2015, quizlet.com/332814945/history-of-fbla-flash-cards/. 
- - “FBLA-PBL.” *FBLA-PBL*, www.fbla-pbl.org/. 
- - “Business Skills for Life-Midterm.” *Quizlet*, 14 June 2017, quizlet.com/229744801/business-skills-for-life-midterm-flash-cards/. 
- - “Terms & Conditions for Mobile Apps.” *TermsFeed*, 12 Nov. 2018, termsfeed.com/blog/terms-conditions-mobile-apps/. 
- - “Sample Terms and Conditions Template.” *TermsFeed*, 30 Nov. 2018, termsfeed.com/blog/sample-terms-and-conditions-template/. 
- - Dearie, KJ, and Zachary Paruch. “Mobile App Terms & Conditions Template & Writing Guide.” *Termly*, 28 Nov. 2018, termly.io/resources/templates/mobile-app-terms-and-conditions-template/. 
- <br/><br/>
 
 ## License ##
 
