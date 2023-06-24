@@ -1,30 +1,30 @@
 
 ![](https://github.com/BeckettMorsch/QuizzicalFBLA/blob/master/Media/QuizzicalLogoSmall.png?raw=true)
 
-# Quizzical FBLA 1.5 README
+# MEAGLE 1.3 README
 <img align="right" height="500" src="https://raw.githubusercontent.com/BeckettMorsch/QuizzicalFBLA/master/Media/ui.gif">
 
-by Anthony Gonella, Beckett Morsch, Matthew Smickle
+by Eesha Sukhavasi
 
-Easton Area High School
-Easton, PA
+Dunlap High School
+Dunlap, IL
 
-QuizzicalFBLA is a mobile application developed for IOS and Android phones. This app tests the users FBLA knowledge by asking them questions on a wide range of FBLA  subjects.  At the end of the quiz the user can even **share their results on multiple social  media platforms** such as Facebook, Twitter, Reddit.   In fact, you can share results on any social platform supported by the mobile device.  QuizzicalFBLA is bug free and features a  fully functional bug reporting system if a user encounters an issue.  It also features crash and error reporting to the centralized Microsoft App Center along with valuable usage analytics.  Social logins from Facebook and Gmail are fully supported!
+Meagle is a Mobile Application that is compatible with both Android and iOS phones. This app acts as a bridge to create seamless communication amongst parents, students, and administration at Dunlap High School. Meagle runs error/bug free, however in the case of any issues there is a way for users to easily report bugs or potential issues that they may be experiencing while using the application. 
 
-![](https://raw.githubusercontent.com/BeckettMorsch/QuizzicalFBLA/master/Media/auth0.png)
+
+![]()
 
 ## Features
 
-- Designed for Android and iOS - We support both platforms
-- Facebook and Gmail social login support for quick account creation
-- Custom account creation if you want to create a new account with just your email address
-- Over 100 questions in 5 quiz categories! 
-- Make sure you answer quickly with only 30 seconds to complete questions
-- Quizzes are generated randomly from our massive pool of questions
+- Compatible with both Android and iOS
+- Gmail login/account creation for quick account access/creation
+- Contains a school calendar to keep track of holidays,half-days, and start-dates/end-dates
+- Athletics calendar seperated by activity and season
+- Important contacts section with phone numbers, email id's, 
 - Swipe through our intuitive flashcards that allow you to study all our questions or drill down to specific categories
 - Leaderboard shows the top users who have accumulated the most points playing
 - Cloud-based user account storage allows you to use the app on any device seamlessly
-- Found a bug?  Report any bugs along with screen captures and videos directly to us
+- Report any bugs to us with screenshots, or recordings of the issue
 
 ## Folder Layout
 
