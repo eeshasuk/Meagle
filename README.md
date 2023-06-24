@@ -1,8 +1,8 @@
 
-![](https://github.com/BeckettMorsch/QuizzicalFBLA/blob/master/Media/QuizzicalLogoSmall.png?raw=true)
+
 
 # MEAGLE 1.3 README
-<img align="right" height="500" src="https://raw.githubusercontent.com/BeckettMorsch/QuizzicalFBLA/master/Media/ui.gif">
+
 
 by Eesha Sukhavasi
 
@@ -20,10 +20,15 @@ Meagle is a Mobile Application that is compatible with both Android and iOS phon
 - Gmail login/account creation for quick account access/creation
 - Contains a school calendar to keep track of holidays,half-days, and start-dates/end-dates
 - Athletics calendar seperated by activity and season
-- Important contacts section with phone numbers, email id's, 
-- Swipe through our intuitive flashcards that allow you to study all our questions or drill down to specific categories
-- Leaderboard shows the top users who have accumulated the most points playing
-- Cloud-based user account storage allows you to use the app on any device seamlessly
+- Important contacts section with phone numbers, email id's, and website address
+- A way for parents to report absences
+- Displaying lunch menus
+- Connections to Dunlap High's various social media platforms(Twitter, Instagram, Facebook)
+- Bus changes tracker to keep tracking of any bus number changes or arrival status
+- A way for photos to be shared amongst app users
+- Safety reporting(sending reports on concerning/suspicious activity that could pose harm)
+- Student self reporting(a way for students to discuss their personal needs/concerns(bullying, etc.))
+- A way for app users to share photos with the rest of the users
 - Report any bugs to us with screenshots, or recordings of the issue
 
 ## Folder Layout
@@ -191,7 +196,7 @@ Xamarin.Forms.PancakeView by Steven Thewissen - [https://www.nuget.org/packages/
 
 The MIT License (MIT)
 
-Copyright (c) 2021 Anthony Gonella, Beckett Morsch, Matthew Smickle
+Copyright (c) 2023 Eesha Sukhavasi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
