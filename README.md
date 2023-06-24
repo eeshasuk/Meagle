@@ -25,10 +25,9 @@ Meagle is a Mobile Application that is compatible with both Android and iOS phon
 - Displaying lunch menus
 - Connections to Dunlap High's various social media platforms(Twitter, Instagram, Facebook)
 - Bus changes tracker to keep tracking of any bus number changes or arrival status
-- A way for photos to be shared amongst app users
+- A way for app users to share photos amongst other app users
 - Safety reporting(sending reports on concerning/suspicious activity that could pose harm)
 - Student self reporting(a way for students to discuss their personal needs/concerns(bullying, etc.))
-- A way for app users to share photos with the rest of the users
 - Report any bugs to us with screenshots, or recordings of the issue
 
 ## Folder Layout
