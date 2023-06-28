@@ -39,13 +39,13 @@ Meagle is a Mobile Application that is compatible with both Android and iOS phon
 > Contains PDF overview of the app along with screenshots and explanations of all functionality
 
 **/Source**
-> Contains Visual Studio 2017 solution file (NOTE: Requires Cross-Platform Visual Studio 2017 Addon)
+> Contains Visual Studio 2023 solution file (NOTE: Requires Cross-Platform Visual Studio 2023 Add on)
 
 
 ## How to Run
 
-This mobile application was developed in C# using Visual Studio 2017 and the Xamarin 
-Platform on both Microsoft Windows and OSX.   Contained within the competition submission 
+This mobile application was developed in C++ using Visual Studio 2023 and the Xamarin 
+Platform on Microsoft Windows.   Contained within the submission 
 is a folder named “CompiledApp” that contains a signed APK that was created for Android 
 phones and emulators. Simply install the APK to your Android mobile device and run.
 
@@ -54,7 +54,7 @@ it would be inaccurate to judge our entry based off of strictly running the UWP 
 of the app. Certain features such as bug reporting are only available on Android and iOS 
 systems.
 
-[Download Release 1.3](https://github.com/BeckettMorsch/QuizzicalFBLA/releases)
+[Download Release 1.3]
 
 ## Build Instructions
 
@@ -64,16 +64,16 @@ Visual Studio Requirements:
 - (If Mac) XCode
 - Android Platform 28 SDK (Pie)
 
-In order to build for IOS you will need OSX with both XCode and Visual Studio for Mac fully  updated and an Internet connection. Upon opening the Visual Studio solution it will immediately download all necessary packages from Nuget. You will need to execute a debug version of the QuizzicalFBLA.iOS project using the iPhone Simulator.   We recommend utilizing the iPhone XS Max iOS 12.1 simulator.
+In order to build for IOS you will need OSX with both XCode and Visual Studio for Mac fully  updated and an Internet connection. Upon opening the Visual Studio solution it will immediately download all necessary packages from Nuget. You will need to execute a debug version of Meagle using the iPhone Simulator.   We recommend utilizing the iPhone XS Max iOS 12.1 simulator.
 
-In order to build for Android you will need Visual Studio or Visual Studio for Mac. Upon opening the Visual Studio solution it will immediately download all necessary packages from Nuget. You will need to execute a debug version of the QuizzicalFBLA.Android project either on a simulator or by connecting an Android mobile device that has Developer Options and Enable USB debugging turned on.   
+In order to build for Android you will need Visual Studio or Visual Studio for Mac. Upon opening the Visual Studio solution it will immediately download all necessary packages from Nuget. You will need to execute a debug version of the Meagle project either on a simulator or by connecting an Android mobile device that has Developer Options and Enable USB debugging turned on.   
 
 Enjoy!
 
 ## Other Notes ##
 
 - All of the code in Meagle is error free and can be run with no issues.  
-- Meagle is entirely written in C# using the Xamarin Framework.
+- Meagle is entirely written in C++ using the Xamarin Framework.
 - The navigation between pages is also error free and take the user to the intended pages.
 - The Meagle app is compatible with Android/iOS phones and tablets.
 - The data that is collected from the app is secure.
@@ -129,7 +129,7 @@ Lottie animatons were not altered in any way and obtained via Creative Commons A
 <br/><br/>
 
 ## Software and Services Used ##
-Quizzical FBLA was developed using the following software applications and services: 
+Meagle  was developed using the following software applications and services: 
 
 Auth0 - [https://www.auth0.com](https://www.auth0.com)
 > Purpose: Auth0 provides a universal authentication & authorization platform for web, mobile and legacy applications.  You can easily and quickly connect your apps, choose identity providers, add users, set up rules, customize your login page and access analytics from one dashboard
@@ -143,14 +143,12 @@ Github - [https://github.com/](https://github.com/)
 Gitkraken - [https://www.gitkraken.com/](https://www.gitkraken.com/)
 >Purpose:  Gitkraken was utilized to manage code revisions, resolve merge conflicts, and test experimental branch features. 
  
-Instabug - [https://instabug.com/](https://instabug.com/) 
->Purpose:  We utilize Instabug to provide comprehensive bug reporting and in-app feedback from our users during beta testing.   Instabug automatically attaches steps to reproduce a bug, network request logs and view hierarchy inspections with each bug report.  It also allows users to record videos demonstrating their problem. 
  
 Microsoft App Center - [http://appcenter.ms](http://appcenter.ms) 
->Purpose:  Captures analytics information to allow us to learn Quizzical usage patterns as well as logs information about application crashes and any generated exception errors. 
+>Purpose:  Captures analytics information to allow us to learn Meagle usage patterns as well as logs information about application crashes and any generated exception errors. 
  
-Microsoft Visual Studio 2017 
->Purpose:  IDE for developing Xamarin.Forms applications in C# 
+Microsoft Visual Studio 2023
+>Purpose:  IDE for developing Xamarin.Forms applications in C++
 
 Photopea [https://www.photopea.com/](https://www.photopea.com/) 
 >Purpose:  Photopea is an online graphics editor that is similar to Adobe Photoshop. We used Photopea to manipulate all of our graphics. 
@@ -159,8 +157,6 @@ Photopea [https://www.photopea.com/](https://www.photopea.com/)
 ## Additional Software Components ##
 The following software components are also part of the QuizzicalFBLA app: 
 
-Chaase.GameSparks.NET - [https://christianhaase.github.io/Chaase.GameSparks.NET/](https://christianhaase.github.io/Chaase.GameSparks.NET/)
-> GameSparks.NET is an API wrapper for GameSparks REST API. This package was made with the purpose of making GameSparks integrations with web application, easier for the developer. Instead of having to write your own HTTP requests, GameSparks.NET does the job for you, providing you with easy to use services, classes, and settings. This API wrapper has support for synchronous as well as asycnhronous actions.
 
 Com.Airbnb.Xamarin.Forms.Lottie by Martijn van Dijk - [https://www.nuget.org/packages/Com.Airbnb.Xamarin.Forms.Lottie/](https://www.nuget.org/packages/Com.Airbnb.Xamarin.Forms.Lottie/)
 > Render After Effects animations natively on Android, iOS, MacOS, TVOs and UWP
