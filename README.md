@@ -56,6 +56,21 @@ systems.
 
 [Download Release 1.3]
 
+##User Guide
+School Calendar- Just scroll through to find the different dates with the most important information
+Absence Reporter- Fill in the student's ID, Student Name(First and last), and students email first. Then fill in parent imformation such as phone number, parent email, the reason for absence, the dates that you will be gone. Once you submit, a confirmation email will be sent to you, just in case you wish to cancel your absence reporting. The office team will reacive this information, and mark your student out.
+Submit a safety report- This is to send in any sort of suspicious activity that you might see around the building that needs to be brought to the attention of the administration. The office team will take these concerns into consideration as soon as you send a report, and evaluate them. 
+Report a bug- Submit a report for any issues that you may encounter while using the app. As soon as it is submitted someone will take a look, and find a way to help you out asap!
+Important Contacts- Scroll through to find any important information you may need, and click on the website icon to easily access the wbsite. 
+Social Media- Contains Twitter, Facebook, and Instagram page connections for the school. 
+Create support Request- Talk about your personal concerns, and  these will stay confidential. Enter your name, email, and phone number, and desired way to contact. The counseling services will have access to this information to further discuss your concerns. 
+Bus Information request- Request bus infromation, and yoru request in transferred to the transportation departments at Dunlap High. 
+Submit a photo- Send in an image image, and the school's social media team will look at your query, and upload it to the correct school social media platform. 
+Cafeteria Menus- Scroll through to find what the cafeteria has to offer. 
+Activities Schedule- Has all the announcements and timings for when certain sports games start, and where they are at. 
+
+
+
 ## Build Instructions
 
 Visual Studio Requirements:
